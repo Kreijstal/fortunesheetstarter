@@ -4,7 +4,7 @@
   "private": true,
   "dependencies": {
     "@fortune-sheet/react": "^0.22.0",
-    "react": "^18.2.0",
+    "react": "^19.0.0",
     "react-dom": "^18.2.0"
   },
   "scripts": {
@@ -13,7 +13,7 @@
     "preview": "vite preview"
   },
   "devDependencies": {
-    "@types/react": "^18.2.0",
+    "@types/react": "^19.0.0",
     "@types/react-dom": "^18.2.0",
     "@vitejs/plugin-react": "^4.2.0",
     "typescript": "^5.0.0",
